@@ -1,0 +1,61 @@
+MARKET ANALYSIS GUIDE
+=====================
+
+STOCK ANALYSIS
+--------------
+
+When analyzing a stock, consider:
+
+1. Current stock price
+2. Company and business model
+3. Recent price movement
+4. Market trend
+5. Important financial metrics
+6. Industry conditions
+7. Growth opportunities
+8. Key risks
+
+Example stocks:
+
+AAPL - Apple
+MSFT - Microsoft
+NVDA - NVIDIA
+GOOGL - Alphabet
+AMZN - Amazon
+META - Meta
+TSLA - Tesla
+
+
+CRYPTOCURRENCY ANALYSIS
+=======================
+
+When analyzing cryptocurrency, consider:
+
+1. Current price
+2. Market capitalization
+3. Trading volume
+4. Price momentum
+5. Market sentiment
+6. Technology and use case
+7. Adoption
+8. Regulatory risks
+9. Market volatility
+
+Example cryptocurrencies:
+
+BTC - Bitcoin
+ETH - Ethereum
+SOL - Solana
+ADA - Cardano
+XRP - Ripple
+DOGE - Dogecoin
+
+
+IMPORTANT
+=========
+
+Current prices should always be retrieved using the
+appropriate MCP tool.
+
+Do not invent current market prices.
+Clearly distinguish live market data from analysis.
